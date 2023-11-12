@@ -1,4 +1,4 @@
-***<center>🌸 Bem-vindo ao meu Mundo Tech!🌸</center>*** 
+<p align="center"><i><strong>🌸 Bem-vindo ao meu Mundo Tech!🌸</strong></i></p>
 
 ![Pixel Jeff Divoom](pixel-jeff-divoom.gif)
 <p align="center">
