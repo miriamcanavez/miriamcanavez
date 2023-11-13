@@ -28,7 +28,7 @@ Eu sou a Miriam Canavez, uma contadora apaixonada por números que decidiu embar
 A mudança para a tecnologia não é apenas uma transição de carreira para mim - é uma paixão. Estou fascinada com a forma como a tecnologia molda nosso mundo e estou animada para contribuir para esse cenário emocionante.
 
 ## 🚧 Projetos em Andamento
-Atualmente, estou mergulhanda em projetos pessoais para aprimorar minhas habilidades e aplicar meu conhecimento recém-adquirido. Mantendo os olhos abertos para atualizações!
+Atualmente, estou mergulhada em projetos pessoais para aprimorar minhas habilidades e aplicar meu conhecimento recém-adquirido. Mantendo os olhos abertos para atualizações!
 
 ## 📚 Aprendizado Contínuo
 - 📖 **Cursos Online:** Sempre investindo em meu desenvolvimento com a plataformas de estudos uma delas é a <a href="https://www.dio.me/" rel="nofollow">Digital Innovation One</a>
